@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-400" y="-400" sprite="Willy" scale="0.8" camx="50" camy="-100" icon="willy" color="#FFDD46">
+	<anim name="idle" anim="Willy Idle" fps="14"/>
+	<anim name="singDOWN" anim="Willy Down" indices="0,0,1,1,2,2,2,2,2,3"/>
+	<anim name="singRIGHT" anim="Willy Right" indices="0,0,1,1,2,2,2,2,2,3"/>
+	<anim name="singLEFT" anim="Willy Left" indices="0,0,1,1,2,2,2,2,2,3"/>
+	<anim name="singUP" anim="Willy Up" x="-1.25" indices="0,0,1,1,2,2,2,2,2,3"/>
+</character>

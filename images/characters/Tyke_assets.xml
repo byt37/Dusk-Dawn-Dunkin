@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Heroic Packer v0.1.5 https://heroicpacker.heroeyad.dev/
+-->
+<TextureAtlas imagePath="Tyke_assets.png" width="3424" height="1351" spritePadding="1" borderPadding="0" scale="0.5">
+	<SubTexture name="Tyke_assets I0000" x="2922" y="0" width="497" height="435" frameX="-138" frameY="-169" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets I0001" x="2426" y="436" width="489" height="435" frameX="-147" frameY="-168" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets I0002" x="487" y="915" width="483" height="436" frameX="-147" frameY="-166" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets I0003" x="1931" y="882" width="482" height="436" frameX="-149" frameY="-167" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets I0004" x="0" y="915" width="486" height="436" frameX="-148" frameY="-166" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets l0000" x="2909" y="872" width="511" height="430" frameX="-89" frameY="-168" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets l0001" x="2413" y="0" width="508" height="435" frameX="-97" frameY="-159" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets l0002" x="2916" y="436" width="508" height="432" frameX="-98" frameY="-164" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets l0003" x="2414" y="876" width="494" height="435" frameX="-134" frameY="-168" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets d0000" x="1918" y="0" width="494" height="438" frameX="-144" frameY="-194" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets d0001" x="952" y="0" width="490" height="445" frameX="-146" frameY="-189" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets d0002" x="460" y="0" width="491" height="448" frameX="-146" frameY="-188" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets d0003" x="983" y="446" width="485" height="444" frameX="-148" frameY="-174" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets u 0000" x="0" y="0" width="459" height="462" frameX="-172" frameY="-139" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets u 0001" x="516" y="449" width="466" height="447" frameX="-161" frameY="-154" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets u 0002" x="0" y="463" width="515" height="451" frameX="-111" frameY="-150" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets u 0003" x="971" y="897" width="486" height="445" frameX="-148" frameY="-158" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets r0000" x="1443" y="0" width="474" height="441" frameX="-172" frameY="-154" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets r0001" x="1458" y="891" width="472" height="440" frameX="-165" frameY="-157" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets r0002" x="1955" y="439" width="470" height="436" frameX="-161" frameY="-160" frameWidth="775" frameHeight="640"/>
+	<SubTexture name="Tyke_assets r0003" x="1469" y="442" width="485" height="439" frameX="-148" frameY="-164" frameWidth="775" frameHeight="640"/>
+</TextureAtlas>

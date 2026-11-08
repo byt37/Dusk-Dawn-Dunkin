@@ -1,0 +1,15 @@
+{
+	"color": "#F8EDA5",
+	"customValues": {},
+	"opponentModeAllowed": true,
+	"icon": "willy",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Boot Up",
+	"needsVoices": false,
+	"beatsPerMeasure": 4,
+	"bpm": 115
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Heroic Packer v0.1.5 https://heroicpacker.heroeyad.dev/
+-->
+<TextureAtlas imagePath="Willy.png" width="3543" height="4549" spritePadding="1" borderPadding="0">
+	<SubTexture name="Willy Idle0000" x="1177" y="2467" width="1168" height="614" rotated="true" frameX="-306" frameY="-175" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Idle0001" x="2358" y="1956" width="1173" height="603" rotated="true" frameX="-315" frameY="-171" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Idle0002" x="0" y="1806" width="1180" height="603" rotated="true" frameX="-311" frameY="-163" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Idle0003" x="1189" y="604" width="1182" height="601" rotated="true" frameX="-311" frameY="-161" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Idle0004" x="0" y="1204" width="1182" height="601" rotated="true" frameX="-311" frameY="-161" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Right0000" x="2372" y="618" width="1168" height="682" rotated="true" frameX="-366" frameY="-179" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Right0001" x="1181" y="1808" width="1176" height="658" rotated="true" frameX="-358" frameY="-171" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Right0002" x="2365" y="1301" width="1178" height="654" rotated="true" frameX="-357" frameY="-169" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Right0003" x="0" y="2410" width="1176" height="605" rotated="true" frameX="-327" frameY="-168" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Down0000" x="1154" y="3082" width="1089" height="638" rotated="true" frameX="-291" frameY="-255" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Down0001" x="2918" y="3349" width="625" height="1110" frameX="-295" frameY="-236" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Down0002" x="2297" y="3349" width="620" height="1115" frameX="-298" frameY="-231" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Down0003" x="2408" y="0" width="1117" height="617" rotated="true" frameX="-298" frameY="-229" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Left0000" x="2346" y="2560" width="1136" height="788" rotated="true" frameX="-108" frameY="-210" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Left0001" x="0" y="3777" width="1145" height="772" rotated="true" frameX="-131" frameY="-201" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Left0002" x="1146" y="3777" width="1150" height="766" rotated="true" frameX="-138" frameY="-196" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Left0003" x="0" y="3016" width="1153" height="760" rotated="true" frameX="-146" frameY="-193" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Up0000" x="0" y="0" width="1215" height="594" rotated="true" frameX="-306" frameY="-128" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Up0001" x="0" y="595" width="1188" height="608" rotated="true" frameX="-302" frameY="-155" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Up0002" x="1216" y="0" width="1191" height="603" rotated="true" frameX="-305" frameY="-152" frameWidth="1280" frameHeight="1368"/>
+	<SubTexture name="Willy Up0003" x="1183" y="1206" width="1181" height="601" rotated="true" frameX="-311" frameY="-162" frameWidth="1280" frameHeight="1368"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-150" y="150" sprite="Tyke_assets" flipX="true" camx="20" camy="40" isPlayer="true" color="#7B5DB6">
+	<anim name="idle" anim="Tyke_assets I" fps="14"/>
+	<anim name="singDOWN" anim="Tyke_assets d" indices="0,0,1,1,2,2,2,2,2,3"/>
+	<anim name="singRIGHT" anim="Tyke_assets r" indices="0,0,1,1,2,2,2,2,2,3"/>
+	<anim name="singLEFT" anim="Tyke_assets l" indices="0,0,1,1,2,2,2,2,2,3"/>
+	<anim name="singUP" anim="Tyke_assets u" indices="0,0,1,1,2,2,2,2,2,3"/>
+</character>

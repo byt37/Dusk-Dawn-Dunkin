@@ -1,0 +1,121 @@
+{
+	"events": [
+		{
+			"params": [
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 7500,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 15000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 26250,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 27000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 39000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 42000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 45000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 57000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 69000,
+			"name": "Camera Movement"
+		}
+	]
+}

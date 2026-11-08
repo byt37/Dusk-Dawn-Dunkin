@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage name="willy-mall" folder="stages/willyMall/" zoom="0.55">
+	<sprite name="bg" sprite="main-mall" x="-500" y="-80" scale="1.5" scroll="0.95"/>
+	<girlfriend x="236" y="336" scroll="0.95"/>
+	<dad x="-228" y="354"/>
+	<boyfriend x="943" y="353"/>
+	<sprite name="grass" sprite="grass" x="-550" y="-45" scale="1.5" scroll="1.2" skewx="0" skewy="0"/>
+</stage>

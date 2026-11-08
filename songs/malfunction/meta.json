@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#9271FD",
+	"opponentModeAllowed": true,
+	"difficulties": [
+		"hard"
+	],
+	"icon": "willy",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Malfunction",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 135
+}

@@ -1,0 +1,99 @@
+{
+	"stage": "stage",
+	"events": [
+		{
+			"params": [
+				1,
+				4
+			],
+			"name": "Time Signature Change",
+			"time": 2400
+		},
+		{
+			"params": [
+				4,
+				4
+			],
+			"name": "Time Signature Change",
+			"time": 3000
+		}
+	],
+	"scrollSpeed": 2.2,
+	"codenameChart": true,
+	"strumLines": [
+		{
+			"notes": [
+				{
+					"id": 0,
+					"sLen": 300,
+					"time": 3000,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 3300,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 3450,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 3600,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 3675,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 3750,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 300,
+					"time": 4050,
+					"type": 0
+				}
+			],
+			"position": "dad",
+			"type": 0,
+			"characters": [
+				"dad"
+			]
+		},
+		{
+			"notes": [],
+			"position": "boyfriend",
+			"type": 1,
+			"characters": [
+				"bf"
+			]
+		},
+		{
+			"notes": [],
+			"visible": false,
+			"position": "girlfriend",
+			"type": 2,
+			"characters": [
+				"gf"
+			]
+		}
+	],
+	"meta": {
+		"needsVoices": true,
+		"bpm": 100,
+		"name": "unease-hard"
+	},
+	"noteTypes": []
+}
