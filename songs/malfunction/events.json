@@ -231,6 +231,42 @@
 			],
 			"time": 31492.0634920635,
 			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 34920.6349206349,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 38349.2063492063,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				2,
+				"BEAT",
+				0
+			],
+			"time": 45206.3492063492,
+			"name": "Camera Modulo Change"
 		}
 	]
 }
