@@ -247,7 +247,7 @@
 		},
 		{
 			"params": [
-				2,
+				0,
 				true,
 				4,
 				"CLASSIC",
@@ -261,11 +261,350 @@
 		{
 			"params": [
 				1,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 41724.2063492063,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
 				2,
 				"BEAT",
 				0
 			],
 			"time": 45206.3492063492,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 45206.3492063492,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 48634.9206349206,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 52063.4920634921,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 55492.0634920635,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				true,
+				8,
+				"circ",
+				"InOut",
+				0,
+				0
+			],
+			"time": 58492.0634920635,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 60634.9206349206,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 62349.2063492063,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 62563.4920634921,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"name": "Camera Movement",
+			"time": 62777.7777777778
+		},
+		{
+			"params": [
+				1,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"name": "Camera Movement",
+			"time": 62992.0634920635
+		},
+		{
+			"params": [
+				0,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 63206.3492063492,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 63420.6349206349,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"name": "Camera Movement",
+			"time": 63634.9206349206
+		},
+		{
+			"params": [
+				1,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"name": "Camera Movement",
+			"time": 63849.2063492063
+		},
+		{
+			"params": [
+				0,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 64063.4920634921,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 64492.0634920635,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				2,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"name": "Camera Movement",
+			"time": 64920.6349206349
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 65777.7777777778,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 69206.3492063492,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				0
+			],
+			"time": 72634.9206349206,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				111,
+				10,
+				"BEAT",
+				1
+			],
+			"time": 72634.9206349206,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				0,
+				true,
+				12,
+				"back",
+				"In",
+				0,
+				600
+			],
+			"time": 73277.7777777778,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				130
+			],
+			"time": 74349.2063492063,
+			"name": "BPM Change"
+		},
+		{
+			"params": [
+				0,
+				true,
+				12,
+				"back",
+				"Out",
+				0,
+				0
+			],
+			"time": 74579.9755799756,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				false,
+				4,
+				"CLASSIC",
+				"In",
+				0,
+				-400
+			],
+			"time": 74579.9755799756,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				5,
+				"BEAT",
+				0
+			],
+			"time": 76195.3601953602,
 			"name": "Camera Modulo Change"
 		}
 	]
