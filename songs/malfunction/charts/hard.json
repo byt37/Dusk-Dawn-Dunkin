@@ -1,43 +1,29 @@
 {
-	"events": [],
-	"scrollSpeed": 2.7,
-	"chartVersion": "1.6.0",
-	"meta": {
-		"customValues": {},
-		"color": "#9271FD",
-		"opponentModeAllowed": true,
-		"difficulties": [
-			"hard"
-		],
-		"icon": "willy",
-		"coopAllowed": false,
-		"stepsPerBeat": 4,
-		"displayName": "Malfunction",
-		"needsVoices": true,
-		"beatsPerMeasure": 4,
-		"bpm": 135
-	},
 	"bookmarks": [
 		{
-			"time": 160,
+			"name": "BPM: 140",
 			"color": "#FFBF00",
-			"name": "BPM: 140"
+			"time": 160
 		},
 		{
-			"time": 0,
+			"name": "BPM: 135",
 			"color": "#FF0000",
-			"name": "BPM: 135"
+			"time": 0
 		},
 		{
-			"name": "BPM:130",
+			"time": 687.97657868493,
 			"color": "#F2FF00",
-			"time": 687.97657868493
+			"name": "BPM:130"
 		}
 	],
+	"events": [],
 	"codenameChart": true,
+	"stage": "willy-mall",
 	"strumLines": [
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "dad",
 			"notes": [
 				{
 					"id": 2,
@@ -317,7 +303,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 222.222222222226,
+					"sLen": 222.222222222228,
 					"time": 15111.1111111111,
 					"type": 0
 				},
@@ -335,7 +321,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 222.222222222221,
+					"sLen": 222.222222222219,
 					"time": 15777.7777777778,
 					"type": 0
 				},
@@ -551,13 +537,13 @@
 				},
 				{
 					"id": 2,
-					"sLen": 428.571428571424,
+					"sLen": 428.57142857142,
 					"time": 24099.2063492063,
 					"type": 0
 				},
 				{
 					"id": 3,
-					"sLen": 214.28571428571,
+					"sLen": 214.285714285706,
 					"time": 24420.6349206349,
 					"type": 0
 				},
@@ -1409,7 +1395,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 321.428571428565,
+					"sLen": 321.428571428572,
 					"time": 48634.9206349206,
 					"type": 0
 				},
@@ -2020,24 +2006,24 @@
 					"type": 0
 				}
 			],
-			"position": "dad",
-			"strumScale": 1,
-			"visible": true,
-			"scrollSpeed": 2.7,
-			"strumSpacing": 1,
-			"type": 0,
 			"characters": [
 				"willy"
 			],
+			"type": 0,
+			"strumSpacing": 1,
+			"scrollSpeed": 2.7,
+			"visible": true,
 			"strumPos": [
 				0,
 				50
 			],
-			"vocalsSuffix": "-opponent",
-			"strumLinePos": 0.25
+			"strumLinePos": 0.25,
+			"vocalsSuffix": "-opponent"
 		},
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "boyfriend",
 			"notes": [
 				{
 					"id": 1,
@@ -2113,7 +2099,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 222.222222222223,
+					"sLen": 222.222222222224,
 					"time": 7777.77777777778,
 					"type": 0
 				},
@@ -2317,7 +2303,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 222.222222222226,
+					"sLen": 222.222222222228,
 					"time": 15111.1111111111,
 					"type": 0
 				},
@@ -2335,7 +2321,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 222.222222222221,
+					"sLen": 222.222222222219,
 					"time": 15777.7777777778,
 					"type": 0
 				},
@@ -2491,7 +2477,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 214.285714285714,
+					"sLen": 214.28571428571,
 					"time": 23670.6349206349,
 					"type": 0
 				},
@@ -2965,7 +2951,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 214.285714285717,
+					"sLen": 214.28571428571,
 					"time": 44563.4920634921,
 					"type": 0
 				},
@@ -3019,7 +3005,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 214.28571428571,
+					"sLen": 214.285714285703,
 					"time": 49492.0634920635,
 					"type": 0
 				},
@@ -3624,24 +3610,24 @@
 					"type": 0
 				}
 			],
-			"position": "boyfriend",
-			"strumScale": 1,
-			"visible": true,
-			"scrollSpeed": 2.7,
-			"strumSpacing": 1,
-			"type": 1,
 			"characters": [
 				"tyke"
 			],
+			"type": 1,
+			"strumSpacing": 1,
+			"scrollSpeed": 2.7,
+			"visible": true,
 			"strumPos": [
 				0,
 				50
 			],
-			"vocalsSuffix": "-player",
-			"strumLinePos": 0.75
+			"strumLinePos": 0.75,
+			"vocalsSuffix": "-player"
 		},
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "girlfriend",
 			"notes": [
 				{
 					"id": 3,
@@ -3662,23 +3648,22 @@
 					"type": 0
 				}
 			],
-			"position": "girlfriend",
-			"strumScale": 1,
-			"visible": false,
-			"scrollSpeed": 2.7,
-			"strumSpacing": 1,
-			"type": 2,
 			"characters": [
 				"gf-christmas"
 			],
+			"type": 2,
+			"strumSpacing": 1,
+			"scrollSpeed": 2.7,
+			"visible": false,
 			"strumPos": [
 				0,
 				50
 			],
-			"vocalsSuffix": "",
-			"strumLinePos": 0.5
+			"strumLinePos": 0.5,
+			"vocalsSuffix": ""
 		}
 	],
-	"stage": "willy-mall",
+	"chartVersion": "1.6.0",
+	"scrollSpeed": 2.7,
 	"noteTypes": []
 }

@@ -599,6 +599,42 @@
 		},
 		{
 			"params": [
+				true,
+				1,
+				"camGame",
+				8,
+				"circ",
+				"Out",
+				"stage",
+				false
+			],
+			"time": 74579.9755799756,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				false,
+				1.3,
+				"camGame",
+				4,
+				"linear",
+				"In",
+				"stage",
+				false
+			],
+			"time": 74579.9755799756,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				"setDistortion",
+				"-1.5"
+			],
+			"time": 74579.9755799756,
+			"name": "HScript Call"
+		},
+		{
+			"params": [
 				1,
 				5,
 				"BEAT",
@@ -606,6 +642,20 @@
 			],
 			"time": 76195.3601953602,
 			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				false,
+				1,
+				"camGame",
+				4,
+				"linear",
+				"In",
+				"stage",
+				false
+			],
+			"time": 76195.3601953602,
+			"name": "Camera Zoom"
 		}
 	]
 }
